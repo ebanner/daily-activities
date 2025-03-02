@@ -8,5 +8,5 @@ Little POC app for swiping through daily activities
 
 - Swipe left and right to cycle through activities
 - Tap to mark activity as completed for the day
-- Long press to reset activities for the day
+- Long press to reset list of activities for the day
 - List of activities resets every day
